@@ -12,4 +12,5 @@
 * **RESTFul**
 * Data format transformation
 * **AJAX** (Asynchronous & Synchronous)
+  * Event loop (Callback Queue, Stack, Heap, Blocking, Stack overflow, WebAPIs) 
 * **CORS** (Cross-Origin Resource Sharing)
